@@ -1,10 +1,10 @@
-# LEI_1982_2020
+# LEI_1982 through 2020
 Interactive chart link https://mitchklee35.github.io/LEI_1982_2020/ <br />
 The above chart was created through Tableau and the data was extracted from https://fred.stlouisfed.org/ <br />
-# Composite Index of Leading Indicators
+### Composite Index of Leading Indicators
 What Is the Composite Index of Leading Indicators?
 The Composite Index of Leading Indicators, otherwise known as the Leading Economic Index (LEI), is an index published monthly by The Conference Board. It is used to predict the direction of global economic movements in future months. The index is composed of 10 economic components whose changes tend to precede changes in the overall economy. Businesses and investors can use the index to help plan their activities around the expected performance of the economy and protect themselves from economic downturns. 
-# 10 Components 
+### 10 Components 
 1. Average weekly hours worked by manufacturing workers indicates both consumer income and business demand for labor to engage in ongoing production. <br />
 2. Average number of initial applications for unemployment insurance indicates possible changes in unemployment, which reflects the level of business activity and impacts consumer income. <br />
 3. The volume of manufacturers' new orders for consumer goods and materials indicates businesses' short term operational spending. <br />
